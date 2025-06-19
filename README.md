@@ -44,8 +44,6 @@ Visualizations used:
 
 ![image](https://github.com/user-attachments/assets/bb916218-0c39-4f06-a0d2-6489dcfee02b)
 
-![image](https://github.com/user-attachments/assets/fa322d9c-055b-4541-acd2-5291a9f8be64)
-
 ![image](https://github.com/user-attachments/assets/6eca020b-6a57-4304-864f-25d87f5b40c9)
 
 ![image](https://github.com/user-attachments/assets/0017846b-7a57-4577-8563-a5bd7ba748ed)
